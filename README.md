@@ -1,4 +1,4 @@
-# Quadro-Organizacional
+# Quadro Organizacional 2023
 
 | Capitania | Diretoria | Lider de projeto | Líder Técnico |
 |--- |--- |--- | --- |
